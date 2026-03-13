@@ -19,6 +19,8 @@ This guide is designed around one core outcome: **Do More with AI**.
 
 ## Watch the Video
 
+[![Watch: OpenAI Codex for Non-Developers](https://img.youtube.com/vi/MavnuV0NRwU/maxresdefault.jpg)](https://www.youtube.com/watch?v=MavnuV0NRwU)
+
 - YouTube: https://www.youtube.com/watch?v=MavnuV0NRwU
 
 ---
