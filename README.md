@@ -19,7 +19,7 @@ This guide is designed around one core outcome: **Do More with AI**.
 
 ## Watch the Video
 
-- YouTube: _Add your video link here after publish_
+- YouTube: https://www.youtube.com/watch?v=MavnuV0NRwU
 
 ---
 
@@ -41,6 +41,7 @@ This guide is designed around one core outcome: **Do More with AI**.
 | 10 | [Slash Commands + Modes](#tip-10-use-slash-commands-fast--plan-mode) | Faster control in plugin/CLI |
 | -- | [Templates Folder](#templates-in-this-repo) | Everything ready to copy |
 | -- | [Common Mistakes](#common-mistakes-to-avoid) | What slows beginners down |
+| -- | [Follow JJ](#follow-jj) | X and YouTube |
 | -- | [Next Steps](#next-steps) | How to level up from here |
 
 ---
@@ -276,6 +277,15 @@ Important:
 - Starting new threads for the same deliverable
 - Publishing first draft output
 - Never saving reusable skills/prompts
+
+---
+
+## Follow JJ
+
+- X: https://x.com/jjenglert
+- YouTube: https://www.youtube.com/@10x-Builder
+
+Follow on X or subscribe on YouTube if you want the next resource when it drops.
 
 ---
 
